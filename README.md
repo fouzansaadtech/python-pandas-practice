@@ -88,9 +88,9 @@ Identify the customer with the highest Furniture sales.
 
 ---
 
-### 10. Most Profitable Product
+### 10.Export the top 10 customers by sales into a new Excel file named Top_Customers.xlsx.
 
-Find the product that generated the highest total profit.
+Export top 10 customers into new excel file.
 
 ---
 
